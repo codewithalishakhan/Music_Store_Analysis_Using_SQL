@@ -15,6 +15,18 @@
 
 # <img src ="https://media.tenor.com/n7OE53q4DbkAAAAM/walking-gangster-walking.gif" width=40> Step To Start
 
+1. Always start with creating Database in the SQL platform.
+
+2. Then Import CSV file. Below procedure and screenshot show how to  **import the CSV**  dataset in SQL SERVER.
+
+3. First go to the Explorer window section.
+
+4. Left-click on database in the Explorer window
+  
+5. Then select the Task option
+ 
+6. And last go to Import Flat file section and select CSV files and import it.
+
 
 
 
