@@ -8,6 +8,17 @@ extract valuable insights from the music data, such as the most popular genres, 
 </p>
 
 # <img src="https://cdn.dribbble.com/users/3083633/screenshots/8258363/media/55d788add27fc8029c22aefe21603f73.gif" width=40> **Analysis**
+. Senior most employee based on job title.
+
+. Countries have the most Invoices.
+
+.City that has the highest sum of invoice totals. 
+
+.  Genre of all Rock Music listeners.
+
+. Top 3 values of total invoice.
+
+    and many more.
 
 
 
