@@ -27,6 +27,8 @@
  
 6. And last go to Import Flat file section and select CSV files and import it.
 
+  <img src =https://github.com/codewithalishakhan/Music_Store_Analysis_Using_SQL/assets/109518128/4349bcbb-4a1e-48b9-86ad-7ba8166cfd99 height= 300>
+
 
 
 
