@@ -1,6 +1,6 @@
 # Music_Store_Analysis_Using_SQL
 <h2>Analysing Music Store Data</h2>
-In this repository, we aim to explore the fascinating world of music through the lens of data. Using SQL (Structured Query Language), we delve into vast datasets containing information about artists, albums, songs, and more.
+In this repository, I aim to explore the fascinating world of music through the lens of data. Using SQL (Structured Query Language), In this I analyze the vast datasets containing information about artists, albums, songs, and more.
 extract valuable insights from the music data, such as the most popular genres, and top-charting artists. SQL's simplicity and efficiency empower to manipulate large volumes of music data with ease. From aggregating play counts and calculating average song lengths.
 
 <p align="center">
