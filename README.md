@@ -1,5 +1,5 @@
 # Music_Store_Analysis_Using_SQL
-<h2>Analysing Music Store Analysis</h2>
+<h2>Analysing Music Store Data</h2>
 
 <p align="center">
  <img src="https://media.tenor.com/Yg9cr-N09a4AAAAM/music.gif" width=300>
