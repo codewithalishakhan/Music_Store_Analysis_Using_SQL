@@ -40,9 +40,15 @@ extract valuable insights from the music data, such as the most popular genres, 
  
 6. And last go to Import Flat file section and select CSV files and import it.
 
-  <img src =https://github.com/codewithalishakhan/Music_Store_Analysis_Using_SQL/assets/109518128/4349bcbb-4a1e-48b9-86ad-7ba8166cfd99 height= 300>
 
 
+
+<img src ="https://github.com/codewithalishakhan/Covid_Analysis/assets/109518128/154402e5-05ad-4067-8c0e-91f441dc7125"  height= 300>
+
+<br>
+<h2>Schema-</h2>
+
+<img  src="https://github.com/codewithalishakhan/Covid_Analysis/assets/109518128/c27139da-7b9b-4cb5-9372-11ff36d2bc34" height=300>
 
 
 
