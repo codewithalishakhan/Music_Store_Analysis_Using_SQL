@@ -48,7 +48,7 @@ extract valuable insights from the music data, such as the most popular genres, 
 <br>
 <h2>Schema-</h2>
 
-<img  src="https://github.com/codewithalishakhan/Covid_Analysis/assets/109518128/c27139da-7b9b-4cb5-9372-11ff36d2bc34" height=300>
+<img  src="https://github.com/codewithalishakhan/Covid_Analysis/assets/109518128/c27139da-7b9b-4cb5-9372-11ff36d2bc34" height=500>
 
 
 
