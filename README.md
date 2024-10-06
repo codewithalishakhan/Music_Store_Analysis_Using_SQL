@@ -38,7 +38,7 @@ extract valuable insights from the music data, such as the most popular genres, 
   
 5. Then select the Task option
  
-6. And last go to Import Flat file section and select CSV files and import it.
+6. And last go to Import Flat file section select CSV files and import it.
 
 
 
